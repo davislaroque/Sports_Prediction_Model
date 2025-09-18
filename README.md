@@ -22,6 +22,7 @@ Designed for reproducibility and modular improvements.
 
 📂 Project Structure
 Sports_Prediction_Model/
+
 ├── data/                <- Raw or processed data (not tracked in repo)
 
 ├── notebooks/           <- Jupyter notebooks (exploration, modeling, results)
