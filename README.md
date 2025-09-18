@@ -23,11 +23,17 @@ Designed for reproducibility and modular improvements.
 📂 Project Structure
 Sports_Prediction_Model/
 ├── data/                <- Raw or processed data (not tracked in repo)
+
 ├── notebooks/           <- Jupyter notebooks (exploration, modeling, results)
+
 ├── src/                 <- Reusable Python scripts (feature engineering, models)
+
 ├── outputs/             <- Saved figures, result tables, and reports
+
 ├── README.md            <- Project documentation (this file)
+
 ├── requirements.txt     <- Python dependencies
+
 └── .gitignore           <- Ignore unnecessary files
 
 
