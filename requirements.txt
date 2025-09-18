@@ -1,4 +1,13 @@
 pandas
 scikit-learn
+numpy
 matplotlib
 seaborn
+train_test_split
+RandomForestRegressor
+LinearRegression
+mean_squared_error
+StandardScaler
+scipy.stats
+norm
+math
