@@ -78,7 +78,3 @@ Python (pandas, scikit-learn, matplotlib, seaborn)
 Jupyter Notebook for analysis & visualization
 
 Git/GitHub for version control
-
-📜 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
